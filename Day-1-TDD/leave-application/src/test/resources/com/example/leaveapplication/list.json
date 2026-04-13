@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "leaveType": "AL",
+    "empId": 1,
+    "leaveDays": 2
+  },
+  {
+    "id": 2,
+    "leaveType": "CL",
+    "empId": 1,
+    "leaveDays": 5
+  },
+  {
+    "id": 3,
+    "leaveType": "ML",
+    "empId": 1,
+    "leaveDays": 7
+  }
+]
